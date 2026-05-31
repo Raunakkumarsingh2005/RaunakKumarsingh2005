@@ -7,7 +7,7 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=6EE7B7&center=true&vCenter=true&width=620&lines=Building+scalable+backend+systems+%F0%9F%9A%80;Spring+Boot+%7C+Kafka+%7C+Kubernetes+%7C+Docker;LLM+integrations+%26+RAG+pipelines;Microservices+architecture+from+scratch;Open+to+internship+%E2%80%94+available+June+2026" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=6EE7B7&center=true&vCenter=true&width=620&lines=Building+scalable+backend+systems+%F0%9F%9A%80;Spring+Boot+%7C+Kafka+%7C+Kubernetes+%7C+Docker;LLM+integrations+%26+RAG+pipelines;Microservices+architecture" alt="Typing SVG" />
 </a>
 
 <br/>
