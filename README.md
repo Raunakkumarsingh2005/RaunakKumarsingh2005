@@ -173,29 +173,6 @@ Encrypted note-taking app with JWT-based authentication and role-based access co
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Raunakkumarsingh2005&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=4" />
-
-</div>
-
-<br/>
-
----
-
-## Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Raunakkumarsingh2005&bg_color=0D1117&color=6EE7B7&line=6366f1&point=f59e0b&area=true&hide_border=true&area_color=6366f1" />
-
-</div>
-
-<br/>
-
----
 
 ## Certifications
 
