@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- Visitor Counter -->
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Raunakkumarsingh2005.Raunakkumarsingh2005&left_color=1a1a2e&right_color=6366f1&left_text=visitors" />
-
 <br/><br/>
 
 <!-- Header -->
@@ -27,18 +24,17 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 ```java
 public class Raunak {
 
-    String role        = "Backend Engineer";
-    String college     = "Dronacharya College of Engineering, Gurugram";
+    String role        = "Backend Engineer / Java Developer";
     String degree      = "B.Tech Computer Science (2027)";
     String cgpa        = "7.7 / 10";
 
     String[] passions  = { "Distributed Systems", "LLM Integrations", "Clean Architecture" };
-    String   available = "Open for internship · June 2026 · 6 months";
+    String   available = "Open to work";
 
     String toString() {
         return "Building systems that scale — one microservice at a time.";
@@ -50,7 +46,7 @@ public class Raunak {
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -87,7 +83,7 @@ public class Raunak {
 **AI / LLM**
 
 ![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+
 
 **Tools**
 
@@ -110,7 +106,7 @@ public class Raunak {
 <tr>
 <td width="50%">
 
-### 🎙️ Nudge — AI Meeting Intelligence
+### Nudge — AI Meeting Intelligence
 **`Spring Boot` `Kafka` `Vector DB` `Cloud AI` `RAG`**
 
 Real-time audio pipeline that transcribes, translates across **5+ languages**, and answers questions about your meetings using RAG-powered Q&A — with sub-second storage latency at scale.
@@ -120,7 +116,7 @@ Real-time audio pipeline that transcribes, translates across **5+ languages**, a
 </td>
 <td width="50%">
 
-### 🏦 FinFlow — Microservices Banking
+### FinFlow — Microservices Banking
 **`Spring Boot` `Kafka` `Keycloak` `Kubernetes` `OAuth2`**
 
 4+ independently deployable microservices with full OAuth2/JWT security via Keycloak, Kafka-based async messaging, and Helm chart deployments cutting setup time by **~70%**.
@@ -132,7 +128,7 @@ Real-time audio pipeline that transcribes, translates across **5+ languages**, a
 <tr>
 <td width="50%">
 
-### 🧾 SmartBills — Intelligent Billing
+### SmartBills — Intelligent Billing
 **`Spring Boot` `Gemini AI` `Elasticsearch` `Cloudinary`**
 
 OCR-powered bill processing with Gemini AI that slashes manual data entry by **~80%**, Elasticsearch for sub-100ms retrieval, and SendGrid for automated due-date notifications.
@@ -142,7 +138,7 @@ OCR-powered bill processing with Gemini AI that slashes manual data entry by **~
 </td>
 <td width="50%">
 
-### 🔐 Secure Notes
+### Secure Notes
 **`Spring Boot` `JWT` `RBAC` `Spring Security`**
 
 Encrypted note-taking app with JWT-based authentication and role-based access control — a deep dive into Spring Security best practices.
@@ -159,7 +155,7 @@ Encrypted note-taking app with JWT-based authentication and role-based access co
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -177,7 +173,7 @@ Encrypted note-taking app with JWT-based authentication and role-based access co
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
@@ -189,7 +185,7 @@ Encrypted note-taking app with JWT-based authentication and role-based access co
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -201,7 +197,7 @@ Encrypted note-taking app with JWT-based authentication and role-based access co
 
 ---
 
-## 🎓 Certifications
+## Certifications
 
 | Certificate | Platform | Topic |
 |---|---|---|
@@ -215,7 +211,7 @@ Encrypted note-taking app with JWT-based authentication and role-based access co
 
 <div align="center">
 
-**💼 Actively seeking a 6-month backend internship · Available from June 2026**
+**Actively seeking a 6-month backend internship · Available from June 2026**
 
 *If you're building something interesting with Java, Spring Boot, or distributed systems — let's talk.*
 
