@@ -98,7 +98,7 @@ public class Raunak {
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -158,12 +158,6 @@ Encrypted note-taking app with JWT-based authentication and role-based access co
 ## GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Raunakkumarsingh2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6EE7B7&icon_color=6366f1&text_color=c9d1d9&count_private=true" height="180" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raunakkumarsingh2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6EE7B7&text_color=c9d1d9&langs_count=6" height="180" />
-
-<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=Raunakkumarsingh2005&theme=tokyonight&hide_border=true&background=0D1117&stroke=6EE7B7&ring=6366f1&fire=f59e0b&currStreakNum=e0e0ff&sideNums=e0e0ff&currStreakLabel=6EE7B7&sideLabels=9ca3af&dates=6b7280" />
 
